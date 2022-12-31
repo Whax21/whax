@@ -1,5 +1,5 @@
 /**
-   * Create By THE JO BOT
+   * Create By FARIZ THE JO
    * Base by Dika Ardnt
 */
 
@@ -17,14 +17,14 @@ global.APIKeys = {
 }
 
 
-global.ownername = 'THE JO BOT'
+global.ownername = 'FARIZ THE JO'
 global.autorecording = false //status auto merekam ( auto record )
 global.autoketik = false //status auto mengetik (auto typing)
 global.available = false //status online (online)
 // Other
-global.owner = ['60177426853','60177426853','60177426853']
-global.premium = ['60177426853']
-global.packname = 'The Jo Bot'
+global.owner = ['6281235480830','6281235480830','6281235480830']
+global.premium = ['6281235480830']
+global.packname = 'FARIZ THE JO'
 global.author = 'WhatsApp Bot'
 global.wlcm = []
 global.sessionName = 'session'
